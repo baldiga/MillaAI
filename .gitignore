@@ -1,0 +1,25 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+Environment variables (CRITICAL: Never upload real secrets)
+
+.env
+
+Virtual environments
+
+venv/
+env/
+.venv/
+
+IDE settings
+
+.vscode/
+.idea/
+
+OS files
+
+.DS_Store
+Thumbs.db
