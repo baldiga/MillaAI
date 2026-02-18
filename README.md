@@ -19,7 +19,7 @@ Universal JSON Parser to handle complex streaming responses from AI models.
 
 1. Clone the repo
 
-git clone [https://github.com/yourusername/milla-core.git](https://github.com/yourusername/milla-core.git)
+git clone [https://github.com/amirbaldiga/MillaAI.git](https://github.com/amirbaldiga/MillaAI.git)
 cd milla-core
 
 
