@@ -1,0 +1,1 @@
+fastapi==0.109.0uvicorn==0.27.0python-dotenv==1.0.1yt-dlp==2023.12.30cloudinary==1.38.0requests==2.31.0pydantic==2.6.0ffmpeg-python==0.2.0
